@@ -1,0 +1,2 @@
+- Avanzar con el día 2 del curso.
+- Mejorar con Docker también.
