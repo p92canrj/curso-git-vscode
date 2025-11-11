@@ -10,6 +10,6 @@ Subimos el proyecto a la nube.
 
 Este texto se añadió desde la nueva rama.
 
-# Proyecto Git con VSCode
+# Proyecto Git con VS Code
 
-Cambios hechos desde la rama main.
+Cambios hechos desde la rama nueva-funcionalidad.
